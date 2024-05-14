@@ -41,3 +41,4 @@ htmlcov
 
 Cargo.lock
 target/
+.chat/
