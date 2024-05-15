@@ -1,4 +1,4 @@
-import regex as re
+import re
 import hashlib
 from typing import Dict, List, Tuple, Union
 

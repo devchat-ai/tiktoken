@@ -4,7 +4,7 @@ import functools
 from concurrent.futures import ThreadPoolExecutor
 from typing import AbstractSet, Collection, Literal, NoReturn, Optional, Union
 
-import regex
+import re as regex
 
 from tiktoken import _tiktoken
 
